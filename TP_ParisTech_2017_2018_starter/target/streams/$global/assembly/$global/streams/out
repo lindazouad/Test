@@ -1,0 +1,29 @@
+[0m[[0mdebug[0m] [0mCalculate mappings...[0m
+[0m[[0minfo[0m] [0mChecking every *.class/*.jar file's SHA-1.[0m
+[0m[[0minfo[0m] [0mMerging files...[0m
+[0m[[0minfo[0m] [0mSHA-1: b5273c176bf97489357e058c50a5459214b12f5c[0m
+[0m[[0minfo[0m] [0mPackaging /Users/lindazouad/Downloads/TP_ParisTech_2017_2018_starter/target/scala-2.11/TP_ParisTech_2017_2018-assembly-1.0.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	com/sparkProject/Preprocessor$$anonfun$udf_country$1$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/lindazouad/Downloads/TP_ParisTech_2017_2018_starter/target/streams/$global/assemblyOption/$global/streams/assembly/b0bb9dc81eeb9b3001c04e791e3780560ea7a36d_dir/com/sparkProject/Preprocessor$$anonfun$udf_country$1$1.class[0m
+[0m[[0mdebug[0m] [0m	com/sparkProject/Preprocessor$$anonfun$udf_currency$1$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/lindazouad/Downloads/TP_ParisTech_2017_2018_starter/target/streams/$global/assemblyOption/$global/streams/assembly/b0bb9dc81eeb9b3001c04e791e3780560ea7a36d_dir/com/sparkProject/Preprocessor$$anonfun$udf_currency$1$1.class[0m
+[0m[[0mdebug[0m] [0m	com/sparkProject/Preprocessor$$typecreator1$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/lindazouad/Downloads/TP_ParisTech_2017_2018_starter/target/streams/$global/assemblyOption/$global/streams/assembly/b0bb9dc81eeb9b3001c04e791e3780560ea7a36d_dir/com/sparkProject/Preprocessor$$typecreator1$1.class[0m
+[0m[[0mdebug[0m] [0m	com/sparkProject/Preprocessor$$typecreator2$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/lindazouad/Downloads/TP_ParisTech_2017_2018_starter/target/streams/$global/assemblyOption/$global/streams/assembly/b0bb9dc81eeb9b3001c04e791e3780560ea7a36d_dir/com/sparkProject/Preprocessor$$typecreator2$1.class[0m
+[0m[[0mdebug[0m] [0m	com/sparkProject/Preprocessor$$typecreator3$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/lindazouad/Downloads/TP_ParisTech_2017_2018_starter/target/streams/$global/assemblyOption/$global/streams/assembly/b0bb9dc81eeb9b3001c04e791e3780560ea7a36d_dir/com/sparkProject/Preprocessor$$typecreator3$1.class[0m
+[0m[[0mdebug[0m] [0m	com/sparkProject/Preprocessor$$typecreator4$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/lindazouad/Downloads/TP_ParisTech_2017_2018_starter/target/streams/$global/assemblyOption/$global/streams/assembly/b0bb9dc81eeb9b3001c04e791e3780560ea7a36d_dir/com/sparkProject/Preprocessor$$typecreator4$1.class[0m
+[0m[[0mdebug[0m] [0m	com/sparkProject/Preprocessor$$typecreator5$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/lindazouad/Downloads/TP_ParisTech_2017_2018_starter/target/streams/$global/assemblyOption/$global/streams/assembly/b0bb9dc81eeb9b3001c04e791e3780560ea7a36d_dir/com/sparkProject/Preprocessor$$typecreator5$1.class[0m
+[0m[[0mdebug[0m] [0m	com/sparkProject/Preprocessor$.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/lindazouad/Downloads/TP_ParisTech_2017_2018_starter/target/streams/$global/assemblyOption/$global/streams/assembly/b0bb9dc81eeb9b3001c04e791e3780560ea7a36d_dir/com/sparkProject/Preprocessor$.class[0m
+[0m[[0mdebug[0m] [0m	com/sparkProject/Preprocessor.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/lindazouad/Downloads/TP_ParisTech_2017_2018_starter/target/streams/$global/assemblyOption/$global/streams/assembly/b0bb9dc81eeb9b3001c04e791e3780560ea7a36d_dir/com/sparkProject/Preprocessor.class[0m
+[0m[[0mdebug[0m] [0m	com/sparkProject/Trainer$.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/lindazouad/Downloads/TP_ParisTech_2017_2018_starter/target/streams/$global/assemblyOption/$global/streams/assembly/b0bb9dc81eeb9b3001c04e791e3780560ea7a36d_dir/com/sparkProject/Trainer$.class[0m
+[0m[[0mdebug[0m] [0m	com/sparkProject/Trainer.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/lindazouad/Downloads/TP_ParisTech_2017_2018_starter/target/streams/$global/assemblyOption/$global/streams/assembly/b0bb9dc81eeb9b3001c04e791e3780560ea7a36d_dir/com/sparkProject/Trainer.class[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m
